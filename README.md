@@ -37,7 +37,7 @@ To model and forecast the volatility of JPMorgan Chase (JPM) stock returns using
 Two data sources are used for price information:
 
 * **Yahoo Finance** via the `yfinance` Python API
-* **Alpha Vantage API** (free key used)
+
 
 **Date Range:** 2015-01-01 to 2025-01-01
 **Stock Ticker:** JPM (JPMorgan Chase)
