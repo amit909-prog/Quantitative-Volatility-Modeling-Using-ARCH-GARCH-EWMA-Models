@@ -16,15 +16,15 @@ volatilitymodeling.ipynb	Main Jupyter Notebook implementing ARCH, GARCH, and EWM
 
 📌 Table of Contents
 
-##Project Objective
-
-Data Source
-
-ARCH Model
-
-GARCH Model
-
-EWMA Model
+- [Project Objective](#-project-objective)
+- [Data Source](#-data-source)
+- [ARCH Model](#-arch-model)
+- [GARCH Model](#-garch-model)
+- [EWMA Model](#-ewma-model)
+- [Realized vs Predicted Volatility](#-realized-vs-predicted-volatility)
+- [Libraries Used](#-libraries-used)
+- [How to Run](#-how-to-run)
+- [Conclusion](#-conclusion)
 
 ## 📊 Project Objective
 
