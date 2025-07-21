@@ -15,7 +15,8 @@ File Name	Description
 volatilitymodeling.ipynb	Main Jupyter Notebook implementing ARCH, GARCH, and EWMA models on JPMorgan stock data
 
 📌 Table of Contents
-Project Objective
+
+##Project Objective
 
 Data Source
 
@@ -24,19 +25,6 @@ ARCH Model
 GARCH Model
 
 EWMA Model
-
-
-# Quantitative Volatility Modeling Using ARCH, GARCH & EWMA
-
-This repository presents a comprehensive implementation of three foundational models for financial volatility estimation:
-
-* ARCH (Autoregressive Conditional Heteroskedasticity)
-* GARCH (Generalized ARCH)
-* EWMA (Exponentially Weighted Moving Average)
-
-These models are widely used in quantitative finance for risk management, forecasting, and derivative pricing.
-
----
 
 ## 📊 Project Objective
 
